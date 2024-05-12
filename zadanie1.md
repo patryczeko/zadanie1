@@ -16,6 +16,7 @@ localhost:8080
 ```
 
 Efekt uruchomienia serwera w przeglądarce
+
 ![image](https://github.com/patryczeko/zadanie1/assets/106553021/c9670ac8-5369-4182-b88e-b7ea09cd670b)
 
 
